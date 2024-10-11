@@ -31,8 +31,7 @@ A simple responsive clone of Facebook's login page built using **HTML**, **Tailw
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/facebook-login-clone.git](https://github.com/dbarua1020/Facebook-Clone-Tailwind.git)
-
+   git clone https://github.com/dbarua1020/Facebook-Login-Page-Tailwind.git
 ## Usage
 This project can be used for educational purposes to understand how the layout and styling of a login page are structured. It can also be used as a reference for creating other login page designs.
 
