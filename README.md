@@ -7,7 +7,6 @@ A simple responsive clone of Facebook's login page built using **HTML**, **Tailw
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -15,9 +14,6 @@ A simple responsive clone of Facebook's login page built using **HTML**, **Tailw
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can view the project live here: [Live Demo Link](#) _(Add the live demo URL after deployment)_
 
 ## Features
 
