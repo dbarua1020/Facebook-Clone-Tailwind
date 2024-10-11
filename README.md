@@ -2,6 +2,8 @@
 
 A simple responsive clone of Facebook's login page built using **HTML**, **Tailwind CSS**, and **JavaScript**. This project mimics the look and feel of Facebook's homepage, showcasing proficiency in front-end development with modern styling practices.
 
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/959fbe5d-5af1-4fce-969e-5de1a87825a4">
+<br> <br>
 ## Table of Contents
 
 - [Features](#features)
