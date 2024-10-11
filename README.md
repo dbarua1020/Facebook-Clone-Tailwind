@@ -1,4 +1,4 @@
-# Facebook-Clone-Tailwind
+# Facebook-Login-Page-Tailwind
 
 A simple responsive clone of Facebook's login page built using **HTML**, **Tailwind CSS**, and **JavaScript**. This project mimics the look and feel of Facebook's homepage, showcasing proficiency in front-end development with modern styling practices.
 
